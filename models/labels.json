@@ -1,0 +1,7 @@
+{
+  "clap": 0,
+  "jump": 1,
+  "punch": 2,
+  "walk": 3,
+  "wave": 4
+}
