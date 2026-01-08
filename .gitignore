@@ -1,0 +1,6 @@
+__pycache__/
+*.ipynb
+.vscode/
+.env
+data/
+models/model.pth
